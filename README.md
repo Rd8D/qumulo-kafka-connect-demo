@@ -193,5 +193,5 @@ You also have the ability to load new data into Druid from Imply's home screen.
 
 You can now immediately begin visualizing data with Pivot at http://localhost:9095/pivot.
 
-![Imply visuals](https://github.com/Rd8D/qumulo-kafka-connect-demo/blob/master/doc/imply-visuals-small.png?raw=true)
+![Imply visuals](https://github.com/Rd8D/qumulo-kafka-connect-demo/blob/master/doc/imply-visuals.png?raw=true)
 
