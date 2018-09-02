@@ -25,9 +25,9 @@ The Qumulo demo Connector watches the distributed spool for appended updates. Wh
 
 Data at-rest is encrypted at file level while stored in Qumulo.
 
-![Pipeline overview](http://gitlab.demo.local/root/qumulo-kafka-connect-demo/raw/master/doc/pipeline-overview.png)
+![Pipeline overview](https://github.com/Rd8D/qumulo-kafka-connect-demo/blob/master/doc/pipeline-overview.png?raw=true)
 
-![Demonstration overview](http://gitlab.demo.local/root/qumulo-kafka-connect-demo/raw/master/doc/demo-overview.png)
+![Demonstration overview](https://github.com/Rd8D/qumulo-kafka-connect-demo/blob/master/doc/demo-overview.png?raw=true)
 
 
 ## Getting Started
@@ -193,5 +193,5 @@ You also have the ability to load new data into Druid from Imply's home screen.
 
 You can now immediately begin visualizing data with Pivot at http://localhost:9095/pivot.
 
-![Imply visuals](http://gitlab.demo.local/root/qumulo-kafka-connect-demo/raw/master/doc/imply-visuals-small.png)
+![Imply visuals](https://github.com/Rd8D/qumulo-kafka-connect-demo/blob/master/doc/imply-visuals-small.png?raw=true)
 
