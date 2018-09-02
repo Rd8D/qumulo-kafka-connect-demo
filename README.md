@@ -64,7 +64,7 @@ JAVA_HOME=/opt/qq /opt/qq/bin/kafka-server-start.sh -daemon /opt/qq/conf/kafka.p
 Start Imply:
 
 ```
-cd imply-2.6.0/
+cd imply-2.6.3/
 bin/supervise -c conf/supervise/quickstart.conf
 ```
  
@@ -184,7 +184,7 @@ Write an ingestion spec that can load data from middle manager HTTP endpoint as-
 Run the following command to submit the task:
 
 ```
-curl -X 'POST' -H 'Content-Type:application/json' -d @imply-2.6.0/ingestion-middle-manager-index.json http://localhost:8090/druid/indexer/v1/task
+curl -X 'POST' -H 'Content-Type:application/json' -d @imply-2.6.3/ingestion-middle-manager-index.json http://localhost:8090/druid/indexer/v1/task
 ```
 
 Because of the micro-batching model, it is recommended to schedule the re-indexing tasks to be executed periodically, which will merge data segments together as the data flows in. 
