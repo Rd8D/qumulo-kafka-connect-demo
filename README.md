@@ -68,7 +68,7 @@ cd imply-2.6.3/
 bin/supervise -c conf/supervise/quickstart.conf
 ```
  
-### Stream data from Wikipedia to Qumulo via Kafka
+### Stream data from Wikipedia to Qumulo through Kafka
 
 Start all three connectors running in standalone mode:
 
