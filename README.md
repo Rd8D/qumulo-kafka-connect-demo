@@ -30,8 +30,6 @@ Data at-rest is encrypted at file level while stored in Qumulo.
 ![Demonstration overview](https://github.com/Rd8D/qumulo-kafka-connect-demo/blob/master/doc/demo-overview.png?raw=true)
 
 
-## Getting Started
-
 ### Fire up the demo platform
 
 Pull and compile from master branch, edit properties to your satisfaction.
